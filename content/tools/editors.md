@@ -32,6 +32,7 @@ The Hugo community uses a wide range of preferred tools and has developed plug-i
 
 * [hugo.el](https://github.com/yewton/hugo.el). Some helper functions for creating a Website with Hugo. Note that Hugo also supports [Org-mode][formats].
 * [ox-hugo.el](https://ox-hugo.scripter.co). Native Org-mode exporter that exports to Blackfriday Markdown with Hugo front-matter. `ox-hugo` supports two common Org blogging flows --- exporting multiple Org sub-trees in a single file to multiple Hugo posts, and exporting a single Org file to a single Hugo post. It also leverages the Org tag and property inheritance features. See [*Why ox-hugo?*](https://ox-hugo.scripter.co/doc/why-ox-hugo/) for more.
+* [emacs-easy-hugo](https://github.com/masasam/emacs-easy-hugo). Emacs major mode for writing blogs made with hugo by markdown or org-mode or AsciiDoc or reStructuredText or mmark or html. It includes several useful functions to create and publish the content, and . The source code and documentation can be found [here](https://github.com/masasam/emacs-easy-hugo).
 
 ## Vim
 
